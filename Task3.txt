@@ -1,0 +1,9 @@
+🚗 Car Price Prediction: An Exciting Machine Learning Project with Oasis! 🚗
+
+I’m thrilled to take on a new project with Oasis, focusing on predicting car prices using machine learning! Car prices depend on numerous factors—brand reputation, features, horsepower, mileage, and much more. In this project, I’ll be building a model that can analyze these attributes and accurately predict car prices. 📈
+
+This project not only strengthens my understanding of regression techniques but also highlights how machine learning can be applied to real-world, high-stakes scenarios like car valuation. It’s a great hands-on opportunity to learn the end-to-end process of data collection, feature engineering, model building, and evaluation.
+
+Excited to dive into this project and share insights on my approach and learnings!
+
+#OasisProject #MachineLearning #CarPricePrediction #DataScience #Python #Regression #ArtificialIntelligence
